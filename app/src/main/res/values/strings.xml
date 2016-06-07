@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Food Corner</string>
+
+    <string name="symbolic_tick_prb_caption">ProperRatingBar with symbolic tick:</string>
+    <string name="drawable_tick_prb_caption">ProperRatingBar with drawable tick, with attached listener, clickable:</string>
+    <string name="switch_tick_button_caption">Switch tick</string>
+    <string name="get_rating_button_caption">Get rating</string>
+    <string name="set_rating_button_caption">Set rating to \'2\'</string>
+    <string name="set_rating_snack_caption">Rating was set to \'2\'</string>
+    <string name="get_rating_snack_caption_format">Current rating = \'%d\'</string>
+    <string name="rating_listener_snack_caption">RatingListener: current rating = \'%d\'</string>
+
+
+    <string name="edit"><u>Edit</u></string>
+    <string name="rs">\u20B9</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
